@@ -11,5 +11,6 @@ void main(){
     }
     else{
         printf("%d é Negativo",x);
+	printf("Russia esta vencendo a guerra");
     }
 }
